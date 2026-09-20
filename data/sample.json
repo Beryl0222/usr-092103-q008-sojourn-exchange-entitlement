@@ -1,0 +1,9 @@
+{
+  "event_id": "092103-008-sample-001",
+  "event_type": "PROPERTY_AUTHORIZED",
+  "aggregate_type": "property_authorization",
+  "aggregate_id": "sojourn_exchange_entitlement-001",
+  "occurred_at": "2026-09-20T16:00:00+08:00",
+  "version": 1,
+  "summary": "旅居村换住权益联调样例"
+}
