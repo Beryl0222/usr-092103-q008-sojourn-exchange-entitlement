@@ -20,9 +20,20 @@
       "type": "string",
       "enum": [
         "PROPERTY_AUTHORIZED",
+        "OCCUPANCY_RESERVED",
+        "OCCUPANCY_RELEASED",
+        "CONTRACT_SIGNED",
         "ENTITLEMENT_GRANTED",
+        "POINTS_CREDITED",
+        "POINTS_DEBITED",
+        "PARTY_REGISTERED",
         "RESERVATION_CONFIRMED",
+        "RESERVATION_CANCELLED",
+        "RESERVATION_RESCHEDULED",
+        "CHECK_IN_RECORDED",
         "STAY_CHECKED_IN",
+        "SERVICE_DELEGATED",
+        "MAINTENANCE_BLOCKED",
         "COMPENSATION_ISSUED"
       ]
     },
@@ -30,8 +41,15 @@
       "type": "string",
       "enum": [
         "property_authorization",
+        "room_calendar",
+        "member_contract",
         "member_entitlement",
+        "points_account",
+        "travel_party",
         "stay_reservation",
+        "check_in_record",
+        "service_delegation",
+        "maintenance_block",
         "compensation_entry"
       ]
     },

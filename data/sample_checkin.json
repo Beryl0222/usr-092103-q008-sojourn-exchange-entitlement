@@ -1,0 +1,12 @@
+{
+  "event_id": "092103-008-sample-002",
+  "event_type": "CHECK_IN_RECORDED",
+  "aggregate_type": "check_in_record",
+  "aggregate_id": "ci-req-0921-001",
+  "occurred_at": "2026-09-21T14:30:00+08:00",
+  "version": 1,
+  "summary": "离线办理入住联调样例",
+  "reservation_id": "sojourn_exchange_entitlement-001",
+  "client_request_id": "req-0921-001",
+  "offline": true
+}
