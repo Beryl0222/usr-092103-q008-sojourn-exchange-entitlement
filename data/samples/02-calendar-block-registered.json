@@ -1,0 +1,14 @@
+{
+  "event_id": "evt-20260905-0002",
+  "event_type": "CALENDAR_BLOCK_REGISTERED",
+  "aggregate_type": "property_calendar",
+  "aggregate_id": "cal-yunling-songtao",
+  "occurred_at": "2026-09-05T09:30:00+08:00",
+  "version": 1,
+  "summary": "房东登记元旦期间自住，松涛院12月24日至1月3日不可换住",
+  "property_id": "prop-yunling-songtao",
+  "block_id": "blk-owner-20261224",
+  "block_type": "owner_use",
+  "start_date": "2026-12-24",
+  "end_date": "2027-01-03"
+}

@@ -1,0 +1,19 @@
+{
+  "event_id": "evt-20260910-0005",
+  "event_type": "RESERVATION_HELD",
+  "aggregate_type": "stay_reservation",
+  "aggregate_id": "rsv-gq-leg1",
+  "occurred_at": "2026-09-10T20:00:00+08:00",
+  "version": 1,
+  "summary": "国庆行程第一段持有：云岭村松涛院10月1日至3日",
+  "trace_id": "trace-journey-gq-chenmo",
+  "reservation_id": "rsv-gq-leg1",
+  "journey_id": "journey-gq-chenmo",
+  "property_id": "prop-yunling-songtao",
+  "member_id": "member-chen-mo",
+  "start_date": "2026-10-01",
+  "end_date": "2026-10-03",
+  "points_amount": 1200,
+  "hold_expires_at": "2026-09-10T20:15:00+08:00",
+  "calendar_version": 1
+}

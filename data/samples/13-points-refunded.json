@@ -1,0 +1,16 @@
+{
+  "event_id": "evt-20261002-0013",
+  "event_type": "POINTS_REFUNDED",
+  "aggregate_type": "member_entitlement",
+  "aggregate_id": "ent-chenmo-2026",
+  "occurred_at": "2026-10-02T12:00:00+08:00",
+  "version": 3,
+  "summary": "提前离店按合同返还当晚点数50%",
+  "trace_id": "trace-journey-gq-chenmo",
+  "causation_id": "evt-20261002-0012",
+  "entitlement_id": "ent-chenmo-2026",
+  "amount": 300,
+  "reason_code": "early_departure_partial_refund",
+  "ref_aggregate_id": "rsv-gq-leg1",
+  "balance_after": 9300
+}

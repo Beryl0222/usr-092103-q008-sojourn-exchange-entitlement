@@ -1,0 +1,16 @@
+{
+  "event_id": "evt-20260910-0009",
+  "event_type": "POINTS_DEBITED",
+  "aggregate_type": "member_entitlement",
+  "aggregate_id": "ent-chenmo-2026",
+  "occurred_at": "2026-09-10T20:00:12+08:00",
+  "version": 2,
+  "summary": "国庆行程确认，扣点3000",
+  "trace_id": "trace-journey-gq-chenmo",
+  "causation_id": "evt-20260910-0008",
+  "entitlement_id": "ent-chenmo-2026",
+  "amount": 3000,
+  "reason_code": "reservation_confirmed",
+  "ref_aggregate_id": "journey-gq-chenmo",
+  "balance_after": 9000
+}

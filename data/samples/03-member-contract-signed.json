@@ -1,0 +1,15 @@
+{
+  "event_id": "evt-20260906-0003",
+  "event_type": "MEMBER_CONTRACT_SIGNED",
+  "aggregate_type": "member_contract",
+  "aggregate_id": "contract-chenmo-2026",
+  "occurred_at": "2026-09-06T14:00:00+08:00",
+  "version": 1,
+  "summary": "会员陈默签署畅享年卡合同",
+  "contract_id": "contract-chenmo-2026",
+  "member_id": "member-chen-mo",
+  "tier": "畅享年卡",
+  "cancel_policy": "入住前7天外免费取消；7天内取消扣当晚点数50%；未入住扣全额；因运营方原因取消免罚并触发补偿",
+  "valid_from": "2026-09-06",
+  "valid_to": "2027-09-05"
+}

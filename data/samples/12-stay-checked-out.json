@@ -1,0 +1,14 @@
+{
+  "event_id": "evt-20261002-0012",
+  "event_type": "STAY_CHECKED_OUT",
+  "aggregate_type": "stay_reservation",
+  "aggregate_id": "rsv-gq-leg1",
+  "occurred_at": "2026-10-02T11:30:00+08:00",
+  "version": 4,
+  "summary": "提前一天离店",
+  "trace_id": "trace-journey-gq-chenmo",
+  "reservation_id": "rsv-gq-leg1",
+  "early_departure": true,
+  "actual_checkout_date": "2026-10-02",
+  "planned_checkout_date": "2026-10-03"
+}

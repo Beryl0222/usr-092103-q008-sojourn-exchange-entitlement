@@ -1,0 +1,16 @@
+{
+  "event_id": "evt-20260925-0010",
+  "event_type": "SERVICE_DELEGATED",
+  "aggregate_type": "service_delegation",
+  "aggregate_id": "svc-rsv-gq-leg1-ahe",
+  "occurred_at": "2026-09-25T11:00:00+08:00",
+  "version": 1,
+  "summary": "委托管家阿禾服务国庆第一段入住",
+  "trace_id": "trace-journey-gq-chenmo",
+  "delegation_id": "svc-rsv-gq-leg1-ahe",
+  "reservation_id": "rsv-gq-leg1",
+  "delegate_id": "housekeeper-ahe",
+  "scope_start": "2026-10-01",
+  "scope_end": "2026-10-03",
+  "visible_fields": ["party", "health_preferences", "contact_phone"]
+}

@@ -1,0 +1,16 @@
+{
+  "event_id": "evt-20261003-0014",
+  "event_type": "PROPERTY_BLOCKED",
+  "aggregate_type": "property_calendar",
+  "aggregate_id": "cal-xikou-zhuliguan",
+  "occurred_at": "2026-10-03T08:10:00+08:00",
+  "version": 6,
+  "summary": "竹里馆水管爆裂，10月3日至5日封房维修",
+  "trace_id": "trace-journey-gq-chenmo",
+  "property_id": "prop-xikou-zhuliguan",
+  "block_id": "blk-maint-20261003",
+  "reason": "maintenance",
+  "start_date": "2026-10-03",
+  "end_date": "2026-10-05",
+  "affected_reservation_ids": ["rsv-gq-leg2"]
+}

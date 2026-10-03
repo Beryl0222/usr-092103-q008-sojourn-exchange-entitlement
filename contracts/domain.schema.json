@@ -20,18 +20,41 @@
       "type": "string",
       "enum": [
         "PROPERTY_AUTHORIZED",
+        "PROPERTY_AUTHORIZATION_UPDATED",
+        "PROPERTY_AUTHORIZATION_REVOKED",
+        "CALENDAR_BLOCK_REGISTERED",
+        "CALENDAR_BLOCK_RELEASED",
+        "PROPERTY_BLOCKED",
+        "PROPERTY_BLOCK_LIFTED",
+        "MEMBER_CONTRACT_SIGNED",
+        "MEMBER_CONTRACT_TERMINATED",
         "ENTITLEMENT_GRANTED",
+        "POINTS_DEBITED",
+        "POINTS_REFUNDED",
+        "POINTS_ADJUSTED",
+        "RESERVATION_HELD",
         "RESERVATION_CONFIRMED",
+        "RESERVATION_HOLD_RELEASED",
+        "RESERVATION_CANCELLED",
+        "RESERVATION_RESCHEDULED",
+        "RESERVATION_SUBSTITUTED",
         "STAY_CHECKED_IN",
-        "COMPENSATION_ISSUED"
+        "STAY_CHECKED_OUT",
+        "SERVICE_DELEGATED",
+        "SERVICE_DELEGATION_REVOKED",
+        "COMPENSATION_ISSUED",
+        "COMPENSATION_FULFILLED"
       ]
     },
     "aggregate_type": {
       "type": "string",
       "enum": [
         "property_authorization",
+        "property_calendar",
+        "member_contract",
         "member_entitlement",
         "stay_reservation",
+        "service_delegation",
         "compensation_entry"
       ]
     },
@@ -48,6 +71,14 @@
       "minimum": 1
     },
     "summary": {
+      "type": "string",
+      "minLength": 1
+    },
+    "trace_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "causation_id": {
       "type": "string",
       "minLength": 1
     }

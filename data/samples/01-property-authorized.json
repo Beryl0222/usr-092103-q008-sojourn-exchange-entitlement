@@ -1,15 +1,17 @@
 {
-  "event_id": "092103-008-sample-001",
+  "event_id": "evt-20260901-0001",
   "event_type": "PROPERTY_AUTHORIZED",
   "aggregate_type": "property_authorization",
-  "aggregate_id": "sojourn_exchange_entitlement-001",
-  "occurred_at": "2026-09-20T16:00:00+08:00",
+  "aggregate_id": "auth-yunling-songtao",
+  "occurred_at": "2026-09-01T10:00:00+08:00",
   "version": 1,
-  "summary": "旅居村换住权益联调样例",
+  "summary": "云岭村松涛院授权进入换住池",
   "property_id": "prop-yunling-songtao",
   "owner_id": "owner-zhou-lan",
   "village_id": "village-yunling",
   "capacity": 4,
   "season_quotas": {"peak": 30, "shoulder": 60, "off": 90},
-  "housekeeper_service": "full"
+  "housekeeper_service": "full",
+  "valid_from": "2026-09-01",
+  "valid_to": "2027-08-31"
 }

@@ -1,0 +1,14 @@
+{
+  "event_id": "evt-20260906-0004",
+  "event_type": "ENTITLEMENT_GRANTED",
+  "aggregate_type": "member_entitlement",
+  "aggregate_id": "ent-chenmo-2026",
+  "occurred_at": "2026-09-06T14:05:00+08:00",
+  "version": 1,
+  "summary": "发放2026年度点数12000",
+  "entitlement_id": "ent-chenmo-2026",
+  "member_id": "member-chen-mo",
+  "contract_id": "contract-chenmo-2026",
+  "annual_points": 12000,
+  "period": "2026"
+}

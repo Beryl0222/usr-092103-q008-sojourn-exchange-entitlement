@@ -1,0 +1,17 @@
+{
+  "event_id": "evt-20261003-0015",
+  "event_type": "COMPENSATION_ISSUED",
+  "aggregate_type": "compensation_entry",
+  "aggregate_id": "comp-rsv-gq-leg2",
+  "occurred_at": "2026-10-03T09:00:00+08:00",
+  "version": 1,
+  "summary": "按合同为第二段提供替代房：溪口村荷塘院",
+  "trace_id": "trace-journey-gq-chenmo",
+  "causation_id": "evt-20261003-0014",
+  "compensation_id": "comp-rsv-gq-leg2",
+  "origin_reservation_id": "rsv-gq-leg2",
+  "kind": "substitute",
+  "substitute_property_id": "prop-xikou-hetangyuan",
+  "start_date": "2026-10-03",
+  "end_date": "2026-10-06"
+}

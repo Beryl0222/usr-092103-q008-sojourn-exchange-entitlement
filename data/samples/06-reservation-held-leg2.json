@@ -1,0 +1,19 @@
+{
+  "event_id": "evt-20260910-0006",
+  "event_type": "RESERVATION_HELD",
+  "aggregate_type": "stay_reservation",
+  "aggregate_id": "rsv-gq-leg2",
+  "occurred_at": "2026-09-10T20:00:05+08:00",
+  "version": 1,
+  "summary": "国庆行程第二段持有：溪口村竹里馆10月3日至6日",
+  "trace_id": "trace-journey-gq-chenmo",
+  "reservation_id": "rsv-gq-leg2",
+  "journey_id": "journey-gq-chenmo",
+  "property_id": "prop-xikou-zhuliguan",
+  "member_id": "member-chen-mo",
+  "start_date": "2026-10-03",
+  "end_date": "2026-10-06",
+  "points_amount": 1800,
+  "hold_expires_at": "2026-09-10T20:15:00+08:00",
+  "calendar_version": 4
+}

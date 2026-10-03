@@ -1,0 +1,19 @@
+{
+  "event_id": "evt-20261003-0016",
+  "event_type": "RESERVATION_SUBSTITUTED",
+  "aggregate_type": "stay_reservation",
+  "aggregate_id": "rsv-gq-leg2b",
+  "occurred_at": "2026-10-03T09:05:00+08:00",
+  "version": 1,
+  "summary": "生成替代预约，原预约rsv-gq-leg2保留不覆盖",
+  "trace_id": "trace-journey-gq-chenmo",
+  "causation_id": "evt-20261003-0015",
+  "reservation_id": "rsv-gq-leg2b",
+  "substitutes_reservation_id": "rsv-gq-leg2",
+  "journey_id": "journey-gq-chenmo",
+  "property_id": "prop-xikou-hetangyuan",
+  "member_id": "member-chen-mo",
+  "start_date": "2026-10-03",
+  "end_date": "2026-10-06",
+  "points_amount": 1800
+}

@@ -1,0 +1,25 @@
+{
+  "event_id": "evt-20260910-0007",
+  "event_type": "RESERVATION_CONFIRMED",
+  "aggregate_type": "stay_reservation",
+  "aggregate_id": "rsv-gq-leg1",
+  "occurred_at": "2026-09-10T20:00:10+08:00",
+  "version": 2,
+  "summary": "两段均持有成功，原子确认第一段",
+  "trace_id": "trace-journey-gq-chenmo",
+  "causation_id": "evt-20260910-0006",
+  "reservation_id": "rsv-gq-leg1",
+  "journey_id": "journey-gq-chenmo",
+  "property_id": "prop-yunling-songtao",
+  "member_id": "member-chen-mo",
+  "start_date": "2026-10-01",
+  "end_date": "2026-10-03",
+  "points_amount": 1200,
+  "party": [
+    {"relation": "本人", "age_band": "adult"},
+    {"relation": "配偶", "age_band": "adult"},
+    {"relation": "子女", "age_band": "child"}
+  ],
+  "health_preferences": ["低敏房", "无糖餐"],
+  "privacy_scope": "service_only"
+}
